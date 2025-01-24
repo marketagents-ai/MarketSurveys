@@ -80,7 +80,7 @@ def create_agents(
 
     for i in range(num_agents):
         persona = generate_persona()
-        persona.role = "market_researcher"
+        persona.role = "market researcher"
 
         # Randomly pick an LLM config
         llm_c = random.choice(llm_confs)
