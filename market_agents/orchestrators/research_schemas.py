@@ -76,3 +76,38 @@ class LiteraryAnalysis(BaseModel):
     literary_devices: List[str] = Field(default_factory=list, description="Notable literary devices used")
     historical_context: Optional[str] = Field(None, description="Relevant historical background")
     interpretation: Optional[str] = Field(None, description="Overall interpretation or analysis")
+
+class StartingBusinessIndicators(BaseModel):
+    """Indicators for starting a business from World Bank's Doing Business Report"""
+    rank_starting_business: int = Field(
+        ..., 
+        description="Rank of starting a business in the economy"
+    )
+    score_starting_business: float = Field(
+        ...,
+        description="Overall score for starting a business"
+    )
+    procedures_men: int = Field(
+        ...,
+        description="Number of procedures required for men to start a business"
+    )
+    score_procedures_men: float = Field(
+        ...,
+        description="Score based on number of procedures required for men"
+    )
+    time_men_days: float = Field(
+        ...,
+        description="Time in days required for men to start a business"
+    )
+    score_time_men: float = Field(
+        ...,
+        description="Score based on the time required for men to start a business"
+    )
+    cost_men_income_percent: float = Field(
+        ...,
+        description="Cost as a percentage of income per capita for men"
+    )
+    score_cost_men: float = Field(
+        ...,
+        description="Score based on cost for men to start a business"
+    )
