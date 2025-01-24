@@ -25,3 +25,20 @@ venv/**
 /vscode
 /.vscode
 .DS_store
+
+# Batch files
+install.bat
+start.bat
+
+# Codebook JSON files
+/market_agents/codebook/data/**
+!_row_jsons_go_here.txt
+/market_agents/codebook/metadata/*
+!_metadata_jsons_go_here.txt
+
+# Weird Excel lock
+~$Historical-data---COMPLETE-dataset-with-scores.xlsx
+
+# codebook log folders
+codebook/codebook_logs/*
+!_logs_go_here.txt

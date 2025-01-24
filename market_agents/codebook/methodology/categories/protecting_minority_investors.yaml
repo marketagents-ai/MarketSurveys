@@ -1,0 +1,106 @@
+name: Protecting Minority Investors methodology
+source: https://archive.doingbusiness.org/en/methodology/protecting-minority-investors
+overview: |
+  **Protecting Minority Investors methodology**
+  *Doing Business* measures the protection of minority investors from conflicts of interest through one set of indicators and shareholders' rights in corporate governance through another. The data come from a questionnaire administered to corporate and securities lawyers and are based on securities regulations, company laws, civil procedure codes and court rules of evidence. The ranking of economies on the strength of minority investor protections is determined by sorting their scores for protecting minority investors. These scores are the sum of the extent of conflict of interest regulation index and the extent of shareholder governance index.
+  The extent of conflict of interest regulation index measures the protection of shareholders against directors' misuse of corporate assets for personal gain by distinguishing three dimensions of regulation that address conflicts of interest: transparency of related-party transactions (extent of disclosure index), shareholders' ability to sue and hold directors liable for self-dealing (extent of director liability index) and access to evidence and allocation of legal expenses in shareholder litigation (ease of shareholder suits index). To make the data comparable across economies, several assumptions about the business and the transaction are used (figure 1).
+assumptions:
+  the_business: |
+    **Assumptions about the business**
+    The business (Buyer):
+    - Is a publicly traded corporation listed on the economy's most important stock exchange. If there are fewer than 10 listed companies or if there is no stock exchange in the economy, it is assumed that Buyer is a large private company with multiple shareholders.
+    - Has a board of directors and a chief executive officer (CEO) who may legally act on behalf of Buyer where permitted, even if this is not specifically required by law.
+    - Has a supervisory board in economies with a two-tier board system on which Mr. James appointed 60% of the shareholder-elected members.
+    - Has not adopted bylaws or articles of association that go beyond the minimum requirements. Does not follow codes, principles, recommendations or guidelines that are not mandatory.
+    - Is a manufacturing company with its own distribution network.
+  the_transaction: |
+    **Assumptions about the transaction**
+    - Mr. James owns 60% of Buyer, sits on Buyer's board of directors and appointed two directors to Buyer's five-member board.
+    - Mr. James also owns 90% of Seller, a company that operates a chain of retail hardware stores. Seller recently closed a large number of its stores.
+    - Mr. James proposes that Buyer purchase Seller's unused fleet of trucks to expand Buyer's distribution of its food products, a proposal to which Buyer agrees. The price is equal to 10% of Buyer's assets and is higher than the market value.
+    - The proposed transaction is part of the company's principal activity and is not outside the authority of the company.
+    - Buyer enters into the transaction. All required approvals are obtained, and all required disclosures made—that is, the transaction was not entered into fraudulently.
+    - The transaction causes damages to Buyer. Shareholders sue Mr. James and the executives and directors that approved the transaction.
+  shareholders_rights_in_corporate_governance: |
+    **Shareholders' rights in corporate governance**
+    The extent of shareholder governance index measures shareholders' rights in corporate governance by distinguishing three dimensions of good governance:
+    - Shareholders' rights and role in major corporate decisions (extent of shareholder rights index)
+    - Governance safeguards protecting shareholders from undue board control and entrenchment (extent of ownership and control index)
+    - Transparency on ownership stakes, compensation, audits and financial prospects (extent of corporate transparency index). 
+    **Assumptions about the business**
+    - The business (Buyer) is a publicly-traded corporation that has equity securities listed on the economy's most important stock exchange.
+    - It is not state-owned.
+    - It is incorporated as a company form admitted to list shares on the stock exchange and has an unlimited number of shareholders.
+    - Examples include the Joint Stock Company (JSC), the Public Limited Company (PLC), the C Corporation, the Societas Europaea (SE), the Aktiengesellschaft (AG) and the Société Anonyme/Sociedad Anónima (SA).
+    - If the economy does not have an active stock exchange with at least 10 listings that are not state-owned, no points are given under this index.
+units:
+  extent_of_disclosure_index: |
+    **Extent of disclosure index**
+    The extent of disclosure index has five components:
+    - Which corporate body can provide legally sufficient approval for the transaction. A score of 0 is assigned if it is the CEO or the managing director alone; 1 if the board of directors, the supervisory board or shareholders must vote and Mr. James is permitted to vote; 2 if the board of directors or the supervisory board must vote and Mr. James is not permitted to vote; 3 if shareholders must vote and Mr. James is not permitted to vote.
+    - Whether an external body (an independent auditor, for example) must review the transaction before it takes place. A score of 0 is assigned if no; 1 if yes.
+    - Whether disclosure by Mr. James to the board of directors or the supervisory board is required. A score of 0 is assigned if no disclosure is required; 1 if a general disclosure of the existence of a conflict of interest is required without any specifics; 2 if full disclosure of all material facts relating to Mr. James's interest in the Buyer-Seller transaction is required.
+    - Whether immediate disclosure of the transaction to the public, the regulator or the shareholders is required. A score of 0 is assigned if no disclosure is required; 1 if disclosure on the terms of the transaction is required but not on Mr. James's conflict of interest; 2 if disclosure on both the terms and Mr. James's conflict of interest is required.
+    - Whether disclosure in periodic filings (for example, annual reports) is required. A score of 0 is assigned if no disclosure on the transaction is required; 1 if disclosure on the terms of the transaction is required but not on Mr. James's conflict of interest; 2 if disclosure on both the terms and Mr. James's conflict of interest is required.
+    The index ranges from 0 to 10, with higher values indicating greater disclosure. In Poland, for example, the board of directors must approve the transaction and Mr. James is not allowed to vote (a score of 2). Poland does not require an external body to review the transaction (a score of 0). Before the transaction Mr. James must disclose his conflict of interest to the other directors, but he is not required to provide specific information about it (a score of 1). Buyer is required to disclose immediately all information affecting the stock price, including the conflict of interest (a score of 2). In its annual report Buyer must also disclose the terms of the transaction and Mr. James's ownership in Buyer and Seller (a score of 2). Adding these numbers gives Poland a score of 7 on the extent of disclosure index.
+  extent_of_director_liability_index: |
+    **Extent of director liability index**
+    The extent of director liability index has seven components:
+    - Whether shareholders can sue directly or derivatively for the damage the transaction causes to the company. A score of 0 is assigned if suits are unavailable or are available only for shareholders holding more than 10% of the company's share capital; 1 if direct or derivative suits are available for shareholders holding 10% or less of share capital.
+    - Whether a shareholder plaintiff can hold Mr. James liable for the damage the Buyer-Seller transaction causes to the company. A score of 0 is assigned if Mr. James cannot be held liable or can be held liable only for fraud, bad faith or gross negligence; 1 if Mr. James can be held liable only if he influenced the approval of the transaction or was negligent; 2 if Mr. James can be held liable when the transaction is unfair or prejudicial to shareholders.
+    - Whether a shareholder plaintiff can hold other executives and directors (the CEO, members of the board of directors or members of the supervisory board) liable for the damage the transaction causes to the company. A score of 0 is assigned if they cannot be held liable or can be held liable only for fraud, bad faith or gross negligence; 1 if they can be held liable for negligence; 2 if they can be held liable when the transaction is unfair or prejudicial to shareholders.
+    - Whether Mr. James pays damages for the harm caused to the company upon a successful claim by the shareholder plaintiff. A score of 0 is assigned if no; 1 if yes.
+    - Whether Mr. James repays profits made from the transaction upon a successful claim by the shareholder plaintiff. A score of 0 is assigned if no; 1 if yes.
+    - Whether Mr. James is disqualified upon a successful claim by the shareholder plaintiff. A score of 0 is assigned if no; 1 if he is disqualified— that is, barred from representing or holding a managerial position in any company for a year or more.
+    - Whether a court can void the transaction upon a successful claim by a shareholder plaintiff. A score of 0 is assigned if rescission is unavailable or is available only in case of fraud, bad faith or gross negligence; 1 if rescission is available when the transaction is oppressive or prejudicial to the other shareholders; 2 if rescission is available when the transaction is unfair or entails a conflict of interest.
+    The index ranges from 0 to 10, with higher values indicating greater liability of directors. In Austria, for example, derivative suits are available for shareholders holding 10% of share capital (a score of 1). Assuming that the prejudicial transaction was duly approved and disclosed, in order to hold Mr. James liable a plaintiff must prove that Mr. James influenced the approving body or acted negligently (a score of 1). To hold the other directors liable, a plaintiff must prove that they acted negligently (a score of 1). If Mr. James is found liable, he must pay damages (a score of 1) and is required to disgorge his profits (a score of 1). Mr. James, however, cannot be disqualified (a score of 0). The prejudicial transaction cannot be voided (a score of 0). Adding these numbers gives Austria a score of 5 on the extent of director liability index.
+  ease_of_shareholder_suits_index: |
+    **Ease of shareholder suits index**
+    The ease of shareholder suits index has six components:
+    - Whether shareholders owning 10% of the company's share capital have the right to inspect the Buyer-Seller transaction documents before filing a suit. Alternatively, whether they can request that a government inspector investigate the Buyer-Seller transaction without filing a suit. A score of 0 is assigned if no; 1 if yes.
+    - What range of documents is available to the shareholder plaintiff from the defendant and witnesses during trial. A score of 1 is assigned for each of the following types of documents available: information that the defendant has indicated he/she intends to rely on for his/her defense; information that directly proves specific facts in the plaintiff's claim; and any information relevant to the subject matter of the claim.
+    - Whether the plaintiff can obtain categories of relevant documents from the defendant without identifying each document specifically. A score of 0 is assigned if no; 1 if yes.
+    - Whether the plaintiff can directly examine the defendant and witnesses during trial. A score of 0 is assigned if no; 1 if yes, with prior approval of the questions by the judge or if the judge can set aside questions for any reason; 2 if yes, without prior approval.
+    - Whether the standard of proof for civil suits is lower than that for a criminal case. A score of 0 is assigned if no; 1 if yes.
+    - Whether shareholder plaintiffs can recover their legal expenses from the company. A score of 0 is assigned if no; 1 if plaintiffs can recover their legal expenses from the company upon a successful outcome of their legal action; 2 if plaintiffs can recover their legal expenses from the company regardless of the outcome of their legal action.
+    The index ranges from 0 to 10, with higher values indicating greater powers of shareholders to challenge the transaction. In Croatia, for example, shareholder(s) holding 10% of Buyer's shares can directly review documents related to suspected mismanagement by Mr. James and the CEO without filing suit in court (a score of 1). The plaintiff can access documents that the defendant intends to rely on for his or her defense (a score of 1). The plaintiff must specifically identify the documents being sought (for example, the Buyer-Seller purchase agreement of July 15, 2015) and cannot simply request categories (for example, all documents related to the transaction) (a score of 0). The plaintiff can examine the defendant and witnesses during trial, without prior approval of the questions by the court (a score of 2). The standard of proof for civil suits is the preponderance of the evidence, while the standard for a criminal case is beyond a reasonable doubt (a score of 1). The plaintiff can recover legal expenses from the company only upon a successful outcome of the legal action (a score of 1). Adding these numbers gives Croatia a score of 6 on the ease of shareholder suits index.
+  extent_of_conflict_of_interest_regulation_index: |
+    **Extent of conflict of interest regulation index**
+    The extent of conflict of interest regulation index is the sum of the extent of disclosure, extent of director liability and ase of shareholder suits indices. The index ranges from 0 to 30, with higher values indicating stronger regulation of conflicts of interest.
+  extent_of_shareholder_rights_index: |
+    **Extent of shareholder rights index**
+    For each component of the extent of shareholder rights index, a score of 0 is assigned if the answer is no; 1 if yes. 
+    The index has six components:
+      - Whether the sale of 51% of Buyer's assets requires shareholder approval.
+      - Whether shareholders representing 10% of Buyer's share capital have the right to call for a meeting of shareholders.
+      - Whether Buyer must obtain its shareholders' approval every time it issues new shares.
+      - Whether shareholders automatically receive preemption rights when Buyer issues new shares.
+      - Whether shareholders elect and dismiss the external auditor.
+      - Whether changes to the rights of a class of shares are only possible if the holders of the affected shares approve.
+  extent_of_ownership_and_control_index: |
+    **Extent of ownership and control index**
+    For each component of the extent of ownership and control index, a score of 0 is assigned if the answer is no; 1 if yes. The index has six components:
+    - Whether the sale of 51% of Buyer's assets requires shareholder approval.
+    - Whether shareholders representing 10% of Buyer's share capital have the right to call for a meeting of shareholders.
+    - Whether Buyer must obtain its shareholders' approval every time it issues new shares.
+    - Whether shareholders automatically receive preemption rights when Buyer issues new shares.
+    - Whether shareholders elect and dismiss the external auditor.
+    - Whether changes to the rights of a class of shares are only possible if the holders of the affected shares approve.
+  extent_of_corporate_transparency_index: |
+    **Extent of corporate transparency index**
+    For each component of the extent of corporate transparency index, a score of 0 is assigned if the answer is no; 1 if yes. 
+    The index has six components:
+    - Whether the sale of 51% of Buyer's assets requires shareholder approval.
+    - Whether shareholders representing 10% of Buyer's share capital have the right to call for a meeting of shareholders.
+    - Whether Buyer must obtain its shareholders' approval every time it issues new shares.
+    - Whether shareholders automatically receive preemption rights when Buyer issues new shares.
+    - Whether shareholders elect and dismiss the external auditor.
+    - Whether changes to the rights of a class of shares are only possible if the holders of the affected shares approve.
+  extent_of_shareholder_governance_index: |
+    **Extent of shareholder governance index**
+    The extent of shareholder governance index is the sum of the extent of shareholder rights, extent of ownership and control and extent of corporate transparency indices. The index ranges from 0 to 20, with higher values indicating stronger shareholder rights in corporate governance.
+  reforms: |
+    **Reforms**
+    The protecting minority investors indicator set captures changes related to the regulation of related-party transactions as well as corporate governance every year. Depending on the impact on the data, certain changes are listed in the summaries of *Doing Business* reforms in order to acknowledge the implementation of significant changes. They are divided into two types: reforms that make it easier to do business and changes that make it more difficult to do business. The protecting minority investors indicator set uses the following criteria to recognize a reform.
+    All legislative and regulatory changes that impact the score assigned to a given economy on any of the questions comprising the six indicators on minority investor protection are classified as a reform. The change must be mandatory, meaning that failure to comply allows shareholders to sue in court or for sanctions to be leveled by a regulatory body such as the company registrar, the capital market authority or the securities and exchange commission. Guidelines, model rules, principles, recommendations and duties to explain in case of non-compliance are excluded. When a change exclusively affects companies that are listed on the stock exchange, it will be captured only if the stock exchange has 10 or more equity listings. 
+    Reforms impacting the protecting minority investors indicator set include amendments to or the introduction of a new companies act, commercial code, securities regulation, code of civil procedure, court rules, law, decree, order, supreme court decision, or stock exchange listing rule. The changes must affect the rights and duties of issuers, company managers, directors and shareholders in connection with related-party transactions or, more generally, the aspects of corporate governance measured by the indicators. For example, in a given economy, related-party transactions have to be approved by the board of directors including board members who have a personal financial interest in seeing the transaction succeed. This economy introduces a law requiring that related-party transactions be approved instead by a general meeting of shareholders and that excludes shareholders with conflicting interests from participating in the vote. This law would result in a 2-point increase on the corresponding question in the extent of disclosure index and would therefore be acknowledged in the study.
