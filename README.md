@@ -35,10 +35,18 @@ To install the `market_agents` package in editable mode, follow these steps:
     ```sh
     cat ./market_agents/agents/db/README.md
     ```
+    For Windows machines
+    ```bat
+    type .\market_agents\agents\db\README.md
+    ```
 
 5. Make a copy of .env.example
     ```sh
     cp .env.example .env
+    ```
+    For Windows machines
+    ```bat
+    copy .env.example .env
     ```
 
     *Note: Setup API keys and more...*
@@ -53,3 +61,12 @@ You can run the `run_simulation.sh` as follows:
 sh market_agents/run_simulation.sh
 ```
 
+For Windows machines 
+- Command Line (CMD)
+```
+call market_agents\run_simulation.bat
+```
+- PowerShell
+```
+.\market_agents\run_simulation.bat
+```
